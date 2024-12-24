@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">MobileApplications</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_in_to_access_your_account">Sign in to access your account</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="next">Next</string>
+    <string name="new_member">New Member?</string>
+    <string name="register_now">Register Now</string>
+    <string name="strong_password">Strong Password</string>
+    <string name="get_started">Get Started</string>
+    <string name="create_account_text">by creating a free account</string>
+    <string name="full_name">Full Name</string>
+    <string name="valid_email">Valid Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="terms_and_conditions">by checking the box you agree to our Terms and Conditions</string>
+    <string name="already_a_member">Already a Member?</string>
+    <string name="log_in">Log In</string>
 </resources>
